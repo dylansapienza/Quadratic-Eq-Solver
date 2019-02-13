@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544663210 source:c:\users\dylan sapienza\desktop\school\csci 1121\finalexam\5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
